@@ -1,0 +1,202 @@
+#Tony Baude, 28.8.2023, Storyline fuer das Projekt, mithilfe von ChatGBT geschrieben
+
+
+BEFORE we start the game, here is how you play it: 
+Welcome to this text-based game! In this adventure, you'll navigate a world of decisions that lead you to the evaluation phase.
+
+As you progress, you'll encounter various situations that require your input. You'll often be presented with a question and a set of options, each represented by a symbol in parentheses. To make a choice, simply use the corresponding symbol, avoiding the full option name.
+
+Throughout the game, you'll engage in different activities, each with its own rules that will be explained as you play them. However, keep a close eye on your Energy Level. Should it drop below 0, you'll face defeat.
+
+Now, immerse yourself in the narrative and make choices that guide you on your journey. Let the adventure unfold and strive to reach the evaluation phase. Good luck!
+
+
+Now we can begin the game:
+
+You find yourself chosen as a tutor at the School of Shadow Creatures, a place where werewolves, ghosts, and other supernatural beings gather to learn. Amid their eerie presence, you, a human, stand as a bridge between their world and yours.
+
+In dimly lit classrooms adorned with mystical symbols, you share tales of humanity; its dreams, emotions, and complexities. As you speak, you notice the curiosity in their luminescent eyes, and their questions reflect a sincere desire to understand your world.
+
+What do you wanna do first?
+
+
+Freizeit:
+
+Atop the school's tallest tower, you lay down beneath a sky painted with stars and constellations unfamiliar to Earth. The vastness of the cosmos envelopes you, and you're captivated by the celestial dance overhead. Each star seems to hold a story, and as you trace their patterns, you find yourself lost in thought. It's a moment of quiet contemplation, where the mysteries of the universe become your companions.
+
+You find yourself cocooned in the embrace of the ancient spiderweb, its delicate threads cradling you like a hammock. As you close your eyes, a soothing warmth envelops you, and you sink into a dreamlike state of relaxation. The web's magic seems to seep into your muscles, easing away tension and worry. It's an unexpected oasis of comfort, making you feel as though you're floating on air.
+
+The moonlight casts an eerie glow over the gravestones as you sit on a worn bench in the cemetery. The atmosphere is surprisingly peaceful, and the quiet whispers of the past seem to fill the air. You're here on the recommendation of a fellow student from the monster university. As you chat with a friendly ghost nearby, you can't help but marvel at the beauty of life's transient moments, even in a place usually associated with the departed.
+
+You stand at the edge of Phantom's Pond, surrounded by the gentle rustling of weeping willows. The pond's surface shimmers with an otherworldly radiance as you dip your toes in the water, feeling a cool, calming sensation. Encouraged by the giggles of friendly water spirits, you take a refreshing plunge. The water envelops you like a comforting embrace, and as you swim, you sense a profound connection to the ethereal beings that inhabit the pond.
+
+Amidst the dusty shelves and dim candlelight of the Haunted Library, you find a cozy alcove to rest in. As you open an ancient tome, the spectral librarian hovers nearby, observing in silence. The words on the pages seem to come to life, drawing you into a world of eerie tales and forgotten legends. The library's ambiance is strangely comforting, even as the tales within distract you from the challenges of the outside world.
+
+In the heart of the Eerie Gardens, you gather with friends under the ethereal glow of ghostly flowers and luminous mushrooms. The tranquil pools reflect the shimmering moonlight, creating a mesmerizing dance of colors. The gentle water spirits join your impromptu party, their laughter blending harmoniously with the rustling leaves. As you share stories and laughter, you realize that even in a realm filled with the supernatural, friendship remains a universal joy.
+
+Under the watchful gaze of a silvery moon, you join a group of fellow students in the courtyard. The air is crisp as you sway to haunting melodies, your movements guided by the enchanting rhythm. Shadows dance around you, seemingly alive in the moonlight. As you lose yourself in the graceful motions, you sense a connection to the magical world around you, moving in harmony with the unseen forces.
+
+Deep within the heart of the forest, you discover a shrine dedicated to ancient spirits. As you sit in quiet contemplation, you sense a presence beside you. A gentle spirit shares tales of the past and imparts wisdom that transcends time. The encounter leaves you with a feeling of profound insight and connection.
+
+You venture deep into the heart of the forest and find yourself before the enchanting Whispering Falls. The water cascades from the rocks with a gentle hush, creating a soothing symphony. The air is cool and fragrant, and you're drawn to a secluded alcove beside the falls. Here, you can sit in quiet contemplation, letting the tranquility wash over you, as if the falls are whispering ancient secrets just for you.
+
+The moon is your only companion as you explore the Forgotten Gardens. The flowers here emit a soft, calming glow, illuminating your path. The air is filled with a fragrant breeze that seems to carry whispered stories of the past. You find a quiet bench nestled among the blooms, a perfect spot to sit and reflect on your experiences within the monster school.
+
+
+Snacks:
+
+The glass in your hand holds the Luminous Nectar, a drink that glows softly in the dim light. As you take a sip, you're enveloped in a sensation of pure enchantment. The taste is both refreshing and mysterious, like the whisper of a forgotten melody. With each sip, you feel a surge of energy, as if the nectar is imbuing you with a touch of the otherworldly magic that courses through the school.
+
+Before you sits the Midnight Feast Platter, a mesmerizing spread of delicacies from both the mortal and spectral realms. Dark chocolates shaped like bats, shimmering candied apples, and tiny pastries that seem to twinkle with starlight. The flavors dance on your tongue, offering a tantalizing blend of the familiar and the extraordinary. As you indulge, you can't help but marvel at the ingenuity of the culinary creations in this magical world.
+
+The aroma of the Whispering Tea envelopes you, carrying with it hints of distant meadows and secrets untold. The first sip is a revelation; the tea warms you from the inside, bringing a sense of calm and introspection. The flavors are complex, each sip revealing new layers that seem to echo the ancient stories shared by the spirits. As you drink, you feel as though you're partaking in a timeless tradition that bridges the realms.
+
+
+Bewertung 1:
+
+In a dim chamber, you, a lone human, stand before curious creatures. To break the ice, you propose a challenge: craft a joke that resonates with humans. Laughter unites as jokes weave through shadows, reminding you that humor transcends realms. The German university grading system (1,0 - 1,3 -1,7 - ...- 5,0) applies to the evaluation. 
+Now it's your task to evaluate these jokes:
+
+Warum hat das Mathematikbuch geweint? Weil es zu viele Probleme hatte!
+
+Warum hat der Besen den Strafzettel bekommen? Weil er zu schnell um die Ecke gekehrt ist!
+
+Treffen sich zwei Schneeflocken. Sagt die eine: "Bist du aus Eis?" Sagt die andere: "Nein, aus Wasser."
+
+Ich wollte gerade einen Witz ueber Leerheit machen, aber er war so inhaltslos.
+
+Hab letztens einen Chemiewitz erzaehlt; Keine Reaktion
+
+Egal, wie gut du schlaefst: Albert schlaeft wie Einstein.
+
+Warum hod da Bayer an Regenschirm dabei, obwohl koa Wolk'n am Himmel san? Weil er gern vorbereitet is, fuer ois, wos kemma koennt - a wenn's nur a Wasserkopplung vom Himmel regnet!
+
+I told my wife she was drawing her eyebrows too high. She seemed surprised.
+
+Was macht ein Security-Mann in einer Nudelfabrik?  Er pasta auf!
+
+Warum hat der Geist keinen guten Geschmack? Weil er keine Nerven hat!
+
+Was sagt ein Gespenst, wenn es in die Garage kommt? "Tanken, bitte!"
+
+Was sagt ein Zombie, wenn er zum Arzt geht? "Doc, ich habe mich irgendwie abgestumpft."
+
+Warum sind Zombies immer so schlecht im Verstecken spielen? Weil sie immer hinterher schlurfen!
+
+Warum hat der Werwolf schlechte Manieren? Weil er immer im Halbmond isst!
+
+Was sagt ein Geist zu einem anderen Geist? "Du spukst mich an!"
+
+Was sagt ein Gespenst, wenn es einen Witz erzaehlt? "Booooo, ich hoffe, er hat dich nicht zu Tode gelangweilt!"
+
+
+Bewertung 2:
+
+Having assigned the task of writing essays on the interaction between humans and monsters, you now find yourself facing the responsibility of evaluating these insightful pieces. As you read through each essay, you're immersed in the diverse perspectives presented by the students. The German university grading system (1,0 - 1,3 -1,7 - ...- 5,0) applies to the evaluation.
+
+Coexistence:
+In a world where humans and monsters coexist, the dynamics are complex yet promising. This cohabitation offers opportunities for mutual understanding, cooperation, and shared growth. As we navigate the challenges of living side by side, we find that breaking down stereotypes and embracing our unique qualities can lead to a harmonious future. The path to true coexistence lies in recognizing the value each entity brings and forging connections that transcend our differences.
+
+Coexistence Revisited:
+The notion of coexistence between humans and monsters seems idealistic, but the reality is far more complicated. The inherent differences in our worlds give rise to conflicts, misunderstandings, and power struggles. Attempting to bridge the gap between our realms often leads to cultural clashes and the erosion of our respective identities. Perhaps, it's better to acknowledge our distinctions and maintain separate spheres to preserve the unique essence of each realm.
+
+Legends and Myths:
+The stories that humans and monsters share are as diverse as the realms they inhabit. Legends and myths have shaped our cultures, instilling a sense of wonder and mystery. While tales of bravery and creatures of the night have captivated our imaginations, it's enlightening to uncover the truths behind these narratives. As we unravel the threads of our shared mythology, we discover common threads that weave our worlds together.
+
+Divided by Legends:
+While myths and legends have the potential to unite, they can also deepen the divide between humans and monsters. The stories we share are often skewed by fear and misconceptions. Instead of bringing us together, these tales might reinforce the idea that our worlds are irreconcilably different. It's through acknowledging our cultural discrepancies that we can truly understand and respect our differences.
+
+Fears and Aspirations:
+Fear and aspiration know no boundaries, touching the hearts of both humans and monsters alike. In the shadows, we find common ground, united by our dreams and concerns. Whether it's the desire for acceptance or the pursuit of personal growth, acknowledging our vulnerabilities allows us to connect on a deeper level. Our aspirations propel us forward, reminding us that, despite our appearances, we share the journey of pursuing our dreams.
+
+The Elusive Shared Aspirations:
+Aspirations might be universal, but the paths we take to achieve them differ greatly. The goals of humans and monsters aren't always compatible. Pursuing mutual dreams often leads to rivalry and competition. The conflict arises from the inherent nature of our desires, creating barriers that hinder any genuine sense of shared purpose or progress.
+
+Friendship and Unity:
+Friendship is a bond that transcends the boundaries of our worlds. Humans and monsters alike have found solace and camaraderie in the most unexpected places. As we recount tales of unlikely alliances, we see that unity and understanding can arise from even the darkest of circumstances. Through friendship, we prove that compassion and empathy can bridge the gap between realms, fostering connections that endure.
+
+Fractured Unity:
+While stories of cross-realm friendships are heartwarming, they often mask the underlying tensions that persist. Unity is fragile, and attempts to forge deep connections between humans and monsters can lead to unmet expectations and disappointments. Our fundamental differences in physiology and perspective frequently undermine the bonds we strive to create.
+
+Identity and Acceptance:
+The journey to self-discovery is one that resonates with both humans and monsters. The quest for identity and acceptance is a shared experience, as we grapple with understanding who we are and where we belong. Our struggles and triumphs intertwine, reminding us that the path to self-acceptance often involves embracing the differences that make us unique. In our shared pursuit of authenticity, we find unity in diversity.
+
+Acceptance with Limits:
+The idea of accepting each other's identities is well-intentioned, but the reality is that true acceptance is limited. Our instincts are deeply rooted in self-preservation, leading to mistrust and suspicion of the unfamiliar. Attempting to fully embrace the unknown can lead to discomfort and a feeling of compromise, rather than genuine acceptance.
+
+Ethics and Morality:
+In the realm of ethics and morality, our experiences may differ, but the questions we face are universal. Both humans and monsters encounter dilemmas that challenge our sense of right and wrong. The shades of gray that color our decisions highlight the complexity of our shared existence. Engaging in discussions about ethics helps us recognize the common threads that weave through our ethical landscapes.
+
+Ethics in Conflict:
+Ethical dilemmas often reveal stark disparities between humans and monsters. What might be morally acceptable in one realm is often inconceivable in the other. These disparities can lead to frustration and a sense of futility when attempting to find common ground. Engaging in ethical debates can often expose how fundamentally different our value systems are.
+
+Magic and Abilities:
+The enchanting abilities of monsters mirror the ingenuity of human achievements. Whether through supernatural talents or technological innovations, we marvel at the power of creation. These distinct attributes, be they arcane or mechanical, connect our worlds through a mutual fascination with pushing boundaries and expanding our potential. Our shared drive to harness the extraordinary binds us in our pursuit of greatness.
+
+Pitted Against Abilities:
+Comparing abilities reveals an inherent inequality between humans and monsters. The awe-inspiring talents of monsters far outweigh human achievements. This discrepancy can lead to resentment and envy, as humans grapple with their limited potential. While it's tempting to appreciate the grandeur of supernatural powers, it also exacerbates feelings of inadequacy among humans.
+
+Cultural Exchange:
+Cultural exchange between humans and monsters enriches our lives with a tapestry of customs, traditions, and art forms. The beauty of our diverse backgrounds lies in the stories we share, the dances we perform, and the delicacies we savor. Through embracing each other's cultures, we foster a deeper understanding that transcends mere coexistence. This exchange nurtures bonds that celebrate our unique expressions of life.
+
+Cultural Discord:
+The exchange of culture can lead to cultural imperialism rather than mutual understanding. The overpowering influence of one realm's customs can overshadow the uniqueness of the other. Attempting to assimilate aspects of one culture into the other often results in dilution and loss of identity, causing both sides to feel estranged from their roots.
+
+
+Feedback 1
+
+In the midst of the feedback session, a unique challenge awaits. Before you lay three text fragments, each a glimpse into the world of humans. Your students' playful challenge is for you to discern the themes that underlie these excerpts. You have three attempts per topic to find the answer. In each attempt you have one minute to write down an answer, otherwise you lose. If you need help, you can ask for a hint once per topic.
+
+
+Feedback 2
+
+Amidst the eager whispers of your students, you find yourself presented with a challenge that piques your curiosity. They beckon you to unravel a coded sentence, woven into the fabric of an enigmatic riddle they've devised. As their eyes sparkle with anticipation, you realize that this is not just a test of your wit, but a testament to the bonds you've forged.
+
+"Amidst the language's canvas, veiled and wise,
+Where sentences unfurl, secrets in disguise.
+Symmetry unfolds, letters intertwine,
+Whispering enigmas, a code to define.
+
+From the outmost edges, a bond to thread,
+Initiating and concluding, a riddle widespread.
+The first and last unite, a cryptic dance,
+One letter's humbleness, a path's entrance.
+
+Yet within the realm of oddity, a shift prevails,
+Midway unveils secrets, beneath word's veils.
+Not all pairs, just those in opposite gaze,
+A lettered puzzle, the mind's maze.
+
+Through edges' union, secrets intertwine,
+A voyage in letters, a message to assign.
+Within the woven cipher, knowledge confined,
+Untangle with insight, treasures enshrine."
+
+Your task is to find a valid set of codes to solve the puzzle.
+
+
+Evaluation:
+
+wenn < 140:
+
+                                    			YOU WON!
+
+Congratulations on your victory! Your thoughtful insights and skillful arguments have led you to success. Keep up the great work!
+
+wenn <= 170:
+
+                                  			YOU WON!
+
+An outstanding performance! Your dedication to fostering connections between humans and monsters is evident in your discussions. Your contributions are shaping a brighter future for both realms."
+
+wenn <= 200:
+
+                                    			YOU WON!
+
+An extraordinary accomplishment! Your adeptness at guiding engaging discussions has led to a remarkable triumph. Your unwavering commitment to fostering understanding, unity, and shared growth is truly inspiring. You've not only become a beacon of knowledge and harmony but have also ignited a contagious enthusiasm within the students. The joy and excitement they've experienced in your classes have left an indelible mark on both the human and monster worlds.
+
+
+Niederlage:
+                                      			YOU LOST!
+
+While this round may not have ended as hoped, each discussion, even in loss, enriches your perspectives. And as the curtain falls on your time as a tutor within these hallowed halls, know that your dedication has left an indelible mark. While your journey as a tutor may have seen its challenges and moments of less certainty, it's important to recognize that growth stems not only from triumphs but also from acknowledging areas for improvement. Your role may be shifting, but the echoes of your teachings will resonate within these walls for years to come. As one chapter ends, another begins, carrying with it the wisdom and connections you've fostered. Thank you for your unwavering commitment to bridging the realms and shaping the future, even in the face of defeat.
