@@ -128,3 +128,6 @@ Your choices affect the storyline, energy, and final evaluation — leading to m
 Good luck and have fun experimenting!
 
 ---
+
+### License
+This project is licensed under the [Mit License](/License) 
